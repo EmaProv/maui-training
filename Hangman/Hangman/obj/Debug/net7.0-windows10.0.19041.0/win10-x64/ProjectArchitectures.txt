@@ -1,0 +1,1 @@
+C:\Users\emanu\Code\MAUI\Hangman\Hangman\Hangman.csproj;x64

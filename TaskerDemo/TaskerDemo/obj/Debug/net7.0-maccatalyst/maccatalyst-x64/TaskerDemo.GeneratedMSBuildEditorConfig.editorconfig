@@ -1,0 +1,60 @@
+is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaskerDemo
+build_property.ProjectDir = C:\Users\emanu\Code\MAUI\TaskerDemo\TaskerDemo\
+
+[C:/Users/emanu/Code/MAUI/TaskerDemo/TaskerDemo/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerDemo.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/emanu/Code/MAUI/TaskerDemo/TaskerDemo/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerDemo.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/emanu/Code/MAUI/TaskerDemo/TaskerDemo/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerDemo.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/emanu/Code/MAUI/TaskerDemo/TaskerDemo/MVVM/Views/MainView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerDemo.MVVM.Views.MainView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\MainView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\MainView.xaml
+
+[C:/Users/emanu/Code/MAUI/TaskerDemo/TaskerDemo/MVVM/Views/NewTaskView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerDemo.MVVM.Views.NewTaskView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\NewTaskView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\NewTaskView.xaml
+
+[C:/Users/emanu/Code/MAUI/TaskerDemo/TaskerDemo/Resources/Styles/AppStyle.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerDemo.Resources.Styles.AppStyle.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyle.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyle.xaml
+
+[C:/Users/emanu/Code/MAUI/TaskerDemo/TaskerDemo/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerDemo.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/emanu/Code/MAUI/TaskerDemo/TaskerDemo/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TaskerDemo.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
